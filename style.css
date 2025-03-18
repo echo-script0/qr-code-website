@@ -1,13 +1,5 @@
-body {background-image: url('powder-blue.jpg'); /* Ensure this path is correct */
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    overflow: auto;
-    font-family: Arial, Helvetica, sans-serif;}
+body {background-color: rgb(213, 225, 239)} /* Ensure this path is correct */
+    
 
     .head-container{background-color: white; /* Box background color*/
         width:18%; /* The size you want the box to be*/
@@ -23,10 +15,11 @@ body {background-image: url('powder-blue.jpg'); /* Ensure this path is correct *
              background-size: cover;
              background-repeat: no-repeat;
              background-position: center;
-             width: 80%;
+             width: 85%;
              margin: 0px;
              padding: 20px;
-             min-height: 30vh;}
+             min-height: 30vh;
+             border-radius: 10px;}
 
              .text-align{ font-size: medium; /* Adjusted font size */
                            margin-bottom: 20px; 
