@@ -1,4 +1,4 @@
-body {background-color: rgb(213, 225, 239)} /* Ensure this path is correct */
+body {background-color: rgb(213, 225, 239); overflow: hidden; height: 100%;} /* Ensure this path is correct */
     
 
     .head-container{background-color: white; /* Box background color*/
