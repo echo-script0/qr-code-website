@@ -20,3 +20,9 @@ A simple and responsive QR Code website built with HTML and CSS.
 1. Clone the repository:  
    ```sh
    git clone https://github.com/echo-script0/qr-code-website.git
+
+📜 License
+This project is licensed under the MIT License.
+
+👤 Author
+Aisha Adeyemo
