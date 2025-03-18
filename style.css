@@ -2,14 +2,16 @@ body {background-color: rgb(213, 225, 239); overflow: hidden; height: 100%;} /* 
     
 
     .head-container{background-color: white; /* Box background color*/
+        overflow: hidden;
         width:18%; /* The size you want the box to be*/
         margin: 20px auto; /* Center the box in the middle of the page*/
         padding: 20px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); green, blue, alpha); /* Optional; add shadow for better visibility*/
         border-radius: 10px; /* Optional; for when you want rounded edges*/
-        min-height: 60vh; /* Ensure the box fills the page */
-        margin-top: 50%; /* Move the box down from the top to the middle */ 
-        transform: translateY(-50%); /* Adjust positioning to center it vertically */ } 
+        max-height: 100vh; /* Ensure the box fills the page */
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%, -50%);} 
 
     .qr-code{background-image: url('qr-code2.png');
              background-size: cover;
