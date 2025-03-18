@@ -1,38 +1,22 @@
-# qr-code-website
+# QR Code Website  
 
-This is a simple project for generating and displaying QR codes; also an assignment project courtesy of Frontend Mentor.
+A simple and responsive QR Code website built with HTML and CSS.
 
-## Features
-
-✅ Generate QR codes dynamically
-✅ Customize QR code design
-✅ Download QR codes as images
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <https://github.com/echo-script0/qr-code-website.git>
-   ```
-2. Open the project in VS Code.
-3. Run the project using your preferred method (live server, etc.).
-
-## Usage
-
-- Enter a URL or text to generate a QR code.
-- Click the **Generate** button to display the QR code.
-- Download the QR code image if needed.
-
-## Technologies Used
-
-- HTML, CSS
-
-## Contributing
-
-Feel free to fork this repository and contribute by submitting a pull request.
-
-## License
-
-This project is open-source and available under the MIT License.
+## 📸 Preview  
+![QR Code Website Screenshot](image.png)
 
 
+## 🚀 Features  
+- Generates QR codes dynamically  
+- Clean and modern UI  
+- Mobile-responsive design  
+
+## 🔧 Technologies Used  
+- HTML  
+- CSS  
+  
+
+## 🛠️ Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/echo-script0/qr-code-website.git
